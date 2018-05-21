@@ -1,2 +1,2 @@
-# Devops
+# Selenium Project
 Training Project
